@@ -1,2 +1,2 @@
 # ToDoList1
-zákllad ToDo listu add value, delete value 
+záklladný web na prinicipe ToDoList
