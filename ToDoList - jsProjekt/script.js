@@ -6,7 +6,6 @@ addButtonId.addEventListener("click", function(){
     var x = document.createElement("p");
     x.innerText = inputBarId.value;
     toDos.appendChild(x);
-
 x.addEventListener("dblclick", function(){
     toDos.removeChild(x);
 
